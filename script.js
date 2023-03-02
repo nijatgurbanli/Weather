@@ -26,6 +26,7 @@ btn.addEventListener("click", async (e) => {
       document.getElementById("lon").textContent = longitude;
       document.getElementById("temp").textContent = temperature;
       document.getElementById("time").textContent = time;
+      
       break;
     }
   }
